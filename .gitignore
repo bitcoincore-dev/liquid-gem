@@ -1,4 +1,8 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+*.gem
+*.lock
+.bundle
+.sass-cache
+CNAME
+test-site/
+.DS_Store
+ln-wordpress-store
